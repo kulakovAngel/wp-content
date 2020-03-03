@@ -1,0 +1,15 @@
+body {
+    color: #333;
+}
+
+header, main, footer {
+    padding: 12px;
+    margin: 6px;
+    border: 1px solid #bbb;
+    border-radius: 6px;
+}
+
+header {
+    display: flex;
+    justify-content: space-between;
+}
